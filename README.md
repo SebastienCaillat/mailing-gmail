@@ -1,4 +1,4 @@
-mMailing-gmail
+Mailing-gmail
 =============
 
 Simple Python script to send emails using your Gmail account.
